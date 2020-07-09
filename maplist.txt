@@ -1,5 +1,6 @@
 Arnhem Offensive 01
 Arnhem Offensive 02
+Arnhem Offensive 03
 Arnhem RAAS UK 01
 Arnhem
 Best Offensive 01
@@ -69,4 +70,7 @@ Dinant Offensive 01
 Dinant Offensive 02
 Dinant RAAS 01
 Utah Beach Invasion 01
+Carentan Invasion 01
+Carentan Offensive 01
 St Mere Eglise Invasion 01
+St Mere Eglise Invasion 02
