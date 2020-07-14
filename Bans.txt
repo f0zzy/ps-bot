@@ -28,16 +28,16 @@
 76561198885856278:1583270797 //SL Rotation
 76561198088228095:1583433529 //german only
 76561197995153354:1583430700 //no solo tank
-76561198904288728:1583511062 //HÖR EINFACH DAS NÄCHSTE MAL AUF DEN ADMIN
+76561198904288728:1583511062 //HÃ–R EINFACH DAS NÃ„CHSTE MAL AUF DEN ADMIN
 76561198039101535:0 //in der mainbase
 76561198861806050:1583515754 //Like i give a fuck
-76561198274404115:1583867472 //German only, Keine unansässigen spieler
+76561198274404115:1583867472 //German only, Keine unansÃ¤ssigen spieler
 76561198204205619:1583528577 //Germanonly 
 76561198015324394:0
 76561198198256138:1584120831 //7D Trolling
 76561198033072189:0 //1M no mic
 76561198022595398:0
-76561198204360023:1583675609 //Keine Solo-Spieler, Squad anschließen! LAST WARNING !!!
+76561198204360023:1583675609 //Keine Solo-Spieler, Squad anschlieÃŸen! LAST WARNING !!!
 76561198192612671:1583677444 //obey admin or join another server 
 76561198111041147:1583678284 //trolling, no mic
 76561198974742381:1583693532 //Regel 15
@@ -103,7 +103,7 @@
 76561198063027900:1584902169 //Automatic Teamkill Kick
 76561198202539887:1584904061 //Automatic Teamkill Kick
 76561198363405646:1584908988 //Automatic Teamkill Kick
-76561198014290775:1585519140 //Regel 15 / 7 Tage Timeout / Nächstes mal Permaban
+76561198014290775:1585519140 //Regel 15 / 7 Tage Timeout / NÃ¤chstes mal Permaban
 76561198055675527:1585090131 //Automatic Teamkill Kick
 76561198183563310:1585060076 //Regel 1
 76561198119379708:1585146918 //Regel 15
@@ -122,10 +122,10 @@
 76561198977101368:0 //Regel 1+15
 76561198098087229:0 //Regel 1+15  
 76561198054637199:0 //Regel 1
-76561198132823503:0 //Regel 1-3 (Danke für die freundlichen Worte von dir und deinen Mates. Unser Server = unsere Regeln)
+76561198132823503:0 //Regel 1-3 (Danke fÃ¼r die freundlichen Worte von dir und deinen Mates. Unser Server = unsere Regeln)
 76561197995477971:1585321138 //kein solotank
 76561198181796859:1585841377 //german language only sl must speak german
-76561198868780145:1585846149 //solotank und hört nicht
+76561198868780145:1585846149 //solotank und hÃ¶rt nicht
 76561198251502638:1585846751 //Regel 15, troll woanders
 76561198962230380:1585396928 //Regel 10
 76561198120186958:1585485239 //Regel 16 very high ping
@@ -155,7 +155,7 @@
 76561197996912483:1585674027 //Automatic Teamkill Kick
 76561197981052066:1586379540 //7 Tage Timeout, Absichtliches Teamkillen
 76561198149151654:1585914258 //wiederholt nicht auf Warnungen reagiert Keine Panzer bis 20 vs 20
-76561198058225285:1585914351 //Kein Solopanzer hört auch nach 3 Verwarnungen nicht
+76561198058225285:1585914351 //Kein Solopanzer hÃ¶rt auch nach 3 Verwarnungen nicht
 76561198086118097:1586439994 //Regel 1
 76561198854399439:1586440065 //Regel 1
 76561198866201287:1586379540 //Regel 1
@@ -201,7 +201,7 @@
 76561198057608986:0 //1
 76561198232037512:1586531287 //Automatic Teamkill Kick
 76561197981944065:1586533691 //Automatic Teamkill Kick
-76561198058861581:0 //Vorsätzliche Teamkills
+76561198058861581:0 //VorsÃ¤tzliche Teamkills
 76561197998390323:1586539698 //Automatic Teamkill Kick
 76561198812651145:0 //1
 76561198065099215:0 //1
@@ -263,9 +263,9 @@
 76561198004623523:1587593524 //Automatic Teamkill Kick
 76561198056502091:0 //Naziparolen!
 76561198356789471:1587661188 //Automatic Teamkill Kick
-76561198311022239:1588284000 // Unhöfliches Verhalten gegenüber Admin / Flamen / 7 Tage
-76561197969038139:1588284000 // Unhöfliches Verhalten gegenüber Admin / Flamen / 7 Tage
-76561198256427418:1588284000 // Unhöfliches Verhalten gegenüber Admin / Flamen / 7 Tage
+76561198311022239:1588284000 // UnhÃ¶fliches Verhalten gegenÃ¼ber Admin / Flamen / 7 Tage
+76561197969038139:1588284000 // UnhÃ¶fliches Verhalten gegenÃ¼ber Admin / Flamen / 7 Tage
+76561198256427418:1588284000 // UnhÃ¶fliches Verhalten gegenÃ¼ber Admin / Flamen / 7 Tage
 76561198205148787:1587974974 //German only Verry High Ping
 76561198146416539:1587975297 //German only
 76561198015804276:0 //TK Troll
@@ -284,7 +284,7 @@
 76561197992236792:1587930428 //Automatic Teamkill Kick
 76561197992236792:1587930428 //Automatic Teamkill Kick
 76561197987176654:1587936809 //Automatic Teamkill Kick
-76561198317741555:0 //Absichtliches Zerstören der eigenen FOB und TK
+76561198317741555:0 //Absichtliches ZerstÃ¶ren der eigenen FOB und TK
 76561198017962043:1587991706 //Automatic Teamkill Kick
 76561198990482159:1588075946 //Rule 1
 76561198137213379:1587998746 //Automatic Teamkill Kick
@@ -377,7 +377,7 @@
 76561198020258936:1590241131 //Absichtlicher TeamKill 
 76561198001496759:0 //Geh doch auf der Kopie spielen
 76561198145230802:0 //Geh doch auf der Kopie spielen
-76561198344030122:0 //Name unerwünscht NAZINAME
+76561198344030122:0 //Name unerwÃ¼nscht NAZINAME
 76561198079912032:0 //German only
 76561198167547822:0 //German only
 76561198220023679:0 //German only
@@ -388,7 +388,7 @@
 76561198006598875:0 //German only
 76561198055668020:0 //German only
 76561198856068620:0 //German only
-76561198218353095:1590326048 //Wir wollen keine Musik "für das Reich"
+76561198218353095:1590326048 //Wir wollen keine Musik "fÃ¼r das Reich"
 76561199028827635:1590415382 //Kein Micro Keine Antwort
 76561198140278369:0 //1
 76561198085946133:0 //1 German language only
@@ -411,7 +411,7 @@
 76561197996912483:1590837017 //Automatic Teamkill Kick
 76561199059403908:1591462644 //German only
 76561198093916960:1590879983 //Automatic Teamkill Kick
-76561198111041147:0 // Teamkilltroll auf der Liste aufgetaucht und vorgängig von Hunter gemeldet. 
+76561198111041147:0 // Teamkilltroll auf der Liste aufgetaucht und vorgÃ¤ngig von Hunter gemeldet. 
 76561198215234345:1590954511 //Automatic Teamkill Kick
 76561198215234345:1590954511 //Automatic Teamkill Kick
 76561198170524186:1590954979 //Automatic Teamkill Kick
@@ -445,7 +445,7 @@
 76561198856742894:0
 76561198801893480:0 //german language only
 76561199029058450:0 //german language only
-76561198303143316:0 //Hoher Ping - 3x, S�damerikaner
+76561198303143316:0 //Hoher Ping - 3x, Südamerikaner
 76561198008000214:1592085923 //Automatic Teamkill Kick
 76561198403641759:1592098894 //Automatic Teamkill Kick
 76561197996912483:1592151381 //Automatic Teamkill Kick
@@ -467,11 +467,11 @@
 76561197992236792:1592689582 //Automatic Teamkill Kick
 76561198184197418:0 //etc.
 76561198397322900:1592746638 //high ping and german language only
-76561197987176654:1593377995 // Blacklabel, mehrfacher Regelversto�, allgemeiner St�renfried, bis 28.06 Mitternacht
+76561197987176654:1593377995 // Blacklabel, mehrfacher Regelverstoß, allgemeiner Störenfried, bis 28.06 Mitternacht
 76561198130658681:0 //Keine Nazinostalgie
-76561198148947703:0 // Extreme Nazinostalgie - siehe Adminkanal, Kandidat f�r Serverkartell! Dem Serverkartell Gemeldet Shock!
+76561198148947703:0 // Extreme Nazinostalgie - siehe Adminkanal, Kandidat für Serverkartell! Dem Serverkartell Gemeldet Shock!
 76561198053508453:0 // German only
-76561198078555911:1593982524 // Vors�tzliche Teamkills, bis 05.07 Mitternacht
+76561198078555911:1593982524 // Vorsätzliche Teamkills, bis 05.07 Mitternacht
 76561198366758153:0 //german language only
 76561198055229206:0 //german language only
 76561198063811854:0 //german language only
@@ -479,9 +479,9 @@
 76561198371953758:1593444699 //Automatic Teamkill Kick
 76561198999651841:0 //german language only
 76561198815362456:0 //german language only
-76561198141045365:0 // Trollen, Ausl�nder? (pl im Namen)
+76561198141045365:0 // Trollen, Ausländer? (pl im Namen)
 76561198070547949:0 //cum cum 1d Name, Amerikaner
-76561198333490583:0 // Vors�tzliche Teamkills
+76561198333490583:0 // Vorsätzliche Teamkills
 76561198071794994:0 //german language only
 76561198313796112:0 //Hoher Ping -3x, Asiate
 76561198169886046:1593899964 // Squadrotation 24h Shock
@@ -493,8 +493,8 @@
 76561198390980021:1593971281 //Automatic Teamkill Kick
 76561198258985969:0 //german language only
 76561198124768657:0 //Trollen (ich geh zu deiner Mutter, Weg kenn ich schon), posten von Internetseiten
-76561198105648529:1593971281 //Trollen / Vorsätzliche Teamkills ( Kumpel vom Unteren)
-76561198007556993:1593971281 //Trollen / Vorsätzliche Teamkills ( Kumpel vom Oberen)
+76561198105648529:1593971281 //Trollen / VorsÃ¤tzliche Teamkills ( Kumpel vom Unteren)
+76561198007556993:1593971281 //Trollen / VorsÃ¤tzliche Teamkills ( Kumpel vom Oberen)
 76561198126792331:0 //tEAMKILLER
 76561198859189965:0 //german language only
 76561197972334649:1594162383 //Automatic Teamkill Kick
@@ -521,6 +521,6 @@
 76561198107479115:1594594092 //Automatic Teamkill Kick
 76561197983796245:1594732854 //Solo-Tank 
 76561198118404694:0 // Beleidigung, wohl kein Deutscher
-76561198115971682:0 //Vors�tzliche Teamkills
+76561198115971682:0 //Vorsätzliche Teamkills
 76561198243374428:0 // Serverkartell Teamkiller
 76561198232037512:0 // Serverkartell Teamkiller
