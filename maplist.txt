@@ -63,14 +63,22 @@ Velmolen
 Stonne
 Stonne Offensive 01
 Stonne Offensive 02
+Stonne Offensive 03
 Stonne Skirmish 01
 Stonne RAAS 01
 Dinant
 Dinant Offensive 01
 Dinant Offensive 02
+Dinant Offensive 03
+Dinant Skirmish 01
 Dinant RAAS 01
 Utah Beach Invasion 01
+Utah Beach Invasion 02
+Utah Beach Offensive 01
+Utah Beach Offensive 02
+Utah Beach RAAS US
 Carentan Invasion 01
 Carentan Offensive 01
 St Mere Eglise Invasion 01
 St Mere Eglise Invasion 02
+St Mere Eglise Offensive 01
